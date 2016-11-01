@@ -1,7 +1,6 @@
 # WEB6.0
 ===========
-
-  AJAVA(ADVANCEDJAVA) is  otherwise known as  WEB6.0 is  used  for  cloudcomputing  with  JAS Technology  and it  is  US-BASED Technology.
+AJAVA(ADVANCEDJAVA) is otherwise known as WEB6.0 is used for Remotewebapplication with JAS P.L and it is US-BASED ProgrammingLanguage 
   
   
 
@@ -10,12 +9,12 @@ AJAVA
 =====
 
 
-AJAVA(ADVANCEDJAVA) is  otherwise known as  WEB6.0 is  used  for  cloudcomputing  with  JAS Technology
+AJAVA(ADVANCEDJAVA) is  otherwise known as  WEB6.0 is  used  for  Remotewebapplication  with  JAS P.L
 
-and it  is  US-BASED Technology. 
+and it  is  US-BASED P.L
 
 
-The  Latest Technologies  of  AJAVA
+The  Latest framework of  AJAVA
 
 is  Adollar, Asharp,CSLASH,H@ ,JDollarSHARP,JHSF, JHSON,
 
